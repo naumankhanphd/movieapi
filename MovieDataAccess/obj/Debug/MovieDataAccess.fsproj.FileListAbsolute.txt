@@ -1,0 +1,8 @@
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\bin\Debug\MovieDataAccess.XML
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\bin\Debug\MovieDataAccess.dll
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\bin\Debug\MovieDataAccess.pdb
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\bin\Debug\FSharp.Core.dll
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\bin\Debug\FSharp.Core.xml
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\obj\Debug\MovieDataAccess.fsprojResolveAssemblyReference.cache
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\obj\Debug\MovieDataAccess.dll
+C:\Zubair\Projects\Dot Net\MoviesAPI\MovieDataAccess\obj\Debug\MovieDataAccess.pdb
